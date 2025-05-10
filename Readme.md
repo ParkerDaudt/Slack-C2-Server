@@ -120,11 +120,7 @@ python agent.py
 3. Within `POLL_INTERVAL` seconds, command output appears in your output channel:
 
    ```
-   ```
-
    parker\@host-01
-
-   ```
    ```
 
 ### File Transfer
