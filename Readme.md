@@ -35,7 +35,7 @@ This project provides a simple Command & Control (C2) framework written in Pytho
 ```bash
 # Clone the repository
 git clone https://github.com/ParkerDaudt/Slack-C2-Server.git
-cd c2-server
+cd slack-c2-server
 
 # Create and activate a virtual environment
 python3 -m venv venv
